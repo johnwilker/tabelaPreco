@@ -1,6 +1,6 @@
 # Plano de Assinatura
 
-🔗[Clique aqui para acessar](https://johnwilker.github.io/portfolio)
+🔗[Clique aqui para acessar](https://johnwilker.github.io/tabelaPreco)
 
 ![preview](./.github/preview.png)
 
