@@ -4,7 +4,7 @@
 
 ![preview](./.github/preview.png)
 
-> Landing page de plano de assinatura.
+> Landing page para plano de assinatura.
 
 ## 🛠️ Tecnologias
 
